@@ -1,34 +1,73 @@
-Hey, I’m Safvan — a developer who likes building things that actually work, not just look good on screenshots.
-I vibe with clean code, good logic, and that satisfying feeling when everything finally stops throwing errors.
+I’m Safvan, a full-stack developer with experience in modern web development, AI, and data science.
+I focus on building reliable applications, writing clean and maintainable code, and continuously improving my technical foundation.
 
-🚀 What I Do
+🔧 Core Skills
 
-Build full-stack apps
+Frontend Development
 
-Fix bugs that make no sense
+React
 
-Learn new tech faster than my sleep schedule recovers
+HTML, CSS
 
-Break stuff… then fix it again (classic dev moment)
+Tailwind CSS
 
-💡 My Tech Moodboard
+Bootstrap 5
 
-React, Tailwind
+Backend Development
 
-Node.js, Express
+Python
 
-MongoDB
+Django
 
-Learning AI tools & automation (because future-proofing, duh)
+Node.js
 
-🎯 Goals
+AI / Machine Learning / Deep Learning
 
-Become a better problem-solver every day
+NumPy, Pandas
 
-Ship projects I’m proud of
+Scikit-Learn
 
-Make dev life smoother, smarter, and a bit more fun
+TensorFlow, PyTorch
 
-⚡ Fun Fact
+Data Science
 
-I debug like a detective, build like a craftsman, and sometimes code like it's 3 AM even when it's not.
+Data analysis
+
+Data preprocessing
+
+Model training and evaluation
+
+Full-Stack Practices
+
+REST API development
+
+Authentication & authorization
+
+Database design
+
+Deployment & version control
+
+🚀 Current Focus
+
+Building production-ready full-stack applications
+
+Developing AI and ML-based solutions
+
+Enhancing UI/UX with modern frontend tools
+
+Strengthening backend architecture and scalability
+
+📌 What You’ll Find in My GitHub
+
+Full-stack projects
+
+AI/ML/DL models and experiments
+
+Clean UI designs
+
+Python tools and utilities
+
+Structured, well-organized codebases
+
+
+
