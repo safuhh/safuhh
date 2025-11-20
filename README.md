@@ -1,3 +1,8 @@
-I’m Safvan, a full-stack developer with a strong focus on modern web development, AI, machine learning, and data science. I work with React, Tailwind CSS, HTML, CSS, and Bootstrap on the frontend, and Python, Django, and Node.js on the backend. I enjoy building clean user interfaces, scalable backend systems, and intelligent models using tools like NumPy, Pandas, Scikit-Learn, TensorFlow, and PyTorch. My workflow revolves around writing clean, maintainable code and creating practical solutions that solve real problems. I’m continuously improving my skills, especially in full-stack development, backend architecture, and advanced AI workflows.
-
+👋 Hi, I’m Safvan
+👀 I’m into building modern, scalable apps with React, AI/ML, DL, Data Science, Python, Django & full-stack dev vibes.
+🌱 Right now learning: advanced React, smarter AI workflows, and cloud deployment (Vercel/Render vibes).
+💞️ Open to collaborate on: AI-powered apps, full-stack projects, and anything that pushes real-world impact.
+📫 Reach me at: your email here
+😄 Pronouns: He/Him
+⚡ Fun fact: I break bugs faster than my WiFi breaks during a Google Meet.
 
