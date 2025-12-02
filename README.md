@@ -1,48 +1,60 @@
-<h1 align="center">Safvan</h1>
-<p align="center"><strong>Full-Stack Developer</strong></p>
-<p align="center">Specializing in scalable web applications and modern product experiences</p>
+<h1 align="center">🚀 Safvan</h1>
+<p align="center">
+  <strong>Full-Stack Developer</strong><br/>
+  Crafting scalable web apps & seamless digital experiences
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Django-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Database-Firebase-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tools-Redux_•_Vite_•_Postman-purple?style=for-the-badge"/>
+</p>
 
 ---
 
-## About
-I build software with a focus on performance, clean architecture, and maintainability.  
-Solving real problems and delivering polished digital products is what drives my work.
+## 🌟 About Me
+I build software with precision — performance-focused, maintainable, and user-centric.  
+Solving real problems matters more to me than chasing trends.
 
 ---
 
-## Core Expertise
+## 🔥 Core Expertise
 | Area | Technologies |
 |------|-------------|
 | **Frontend** | React, JavaScript, HTML, CSS, Tailwind |
 | **Backend** | Python, Django |
 | **Database** | Firebase, SQL |
-| **Tools** | Git, Redux Toolkit, Vite, Postman |
+| **Tools** | Git, Vite, Redux Toolkit, Postman |
 
 ---
 
-## Featured Work
-| Project | Summary |
-|---------|---------|
-| **Netflix Clone** | End-to-end streaming UI with dynamic API integration and premium responsiveness |
-| **Chocovera** | High-quality product website with refined design, fluid animations, and a polished user experience |
+## 🚩 Featured Projects
+| Project | Description |
+|--------|-------------|
+| 🎬 **Netflix Clone** | Fully responsive streaming platform UI with TMDB API, carousel banners, and category-based content layout |
+| 🍫 **Chocovera** | Premium product website with smooth UI, modern animations, and a refined shopping experience |
 
 ---
 
-## Current Focus
-- Advanced React architecture  
-- Scalable backend systems  
-- Foundations of AI & Machine Learning
+## 🔭 Current Focus
+- Advanced React patterns & best architecture practices  
+- Scalable backend systems and real-world deployments  
+- AI / Machine Learning fundamentals & implementation
 
 ---
 
-## Contact
-- **Email:** pcsajitha87@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/safvan-p-  
-- **Portfolio:** https://portfolio1-wine-theta-58.vercel.app/
+## 📬 Let’s Connect
+<p align="center">
+  <a href="mailto:pcsajitha87@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/safvan-p-"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge"></a>
+  <a href="https://portfolio1-wine-theta-58.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge"></a>
+</p>
 
 ---
 
-<p align="center"><em>"Great software is engineered, not improvised."</em></p>
+<p align="center"><strong>💡 “Software should be engineered — not improvised.”</strong></p>
+
 
 
 
