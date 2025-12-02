@@ -29,13 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" title="Postman" />
 </div>
 
-
-
-
-<p align="center" style="font-size:13px; color:#555;">
-  “Tools are silent. Mastery speaks.”
-</p>
-
 ---
 
 ## Projects
