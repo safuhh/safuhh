@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=111111&center=true&vCenter=true&width=520&lines=Code+is+my+discipline.;Architecture+is+my+weapon.;Shipping+is+my+victory." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=B30000&center=true&vCenter=true&width=520&lines=Code+is+my+discipline.;Architecture+is+my+weapon.;Shipping+is+my+only+victory." />
 </div>
 
 ---
