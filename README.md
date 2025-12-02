@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Safvan</h1>
+<h1 align="center">i'm Safvan</h1>
 <p align="center">
   <strong>Full-Stack Developer</strong><br/>
   Crafting scalable web apps & seamless digital experiences
