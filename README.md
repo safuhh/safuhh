@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&fontColor=00f9ff&color=8610F5&height=250&text=SAFVAN&fontSize=60&animation=twinkling"/>
-  <h3>⚡ Full-Stack Developer | Scalable Web Apps | Modern UI/UX ⚡</h3>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=333&height=110&text=Safvan%20—%20Full-Stack%20Developer&fontColor=F1F1F1&fontSize=38&animation=blink"/>
 </div>
 
 
