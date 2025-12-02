@@ -14,10 +14,22 @@
 
 ---
 
-## Tech Arsenal
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,js,python,django,firebase,git,redux,vite,postgres,postman,linux&theme=dark&perline=6" />
+## ⚔ Tech Arsenal
+<div align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap; margin-top:10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" title="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" title="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" height="50" title="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" title="Linux" />
 </div>
+
 
 <p align="center" style="font-size:13px; color:#555;">
   “Tools are silent. Mastery speaks.”
