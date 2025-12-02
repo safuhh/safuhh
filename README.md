@@ -16,8 +16,8 @@ I focus on clean architecture, readable code, and shipping real products — not
 | Category | Technologies |
 |---------|--------------|
 | **Frontend** | React, JavaScript, HTML, CSS, Tailwind |
-| **Backend** | Node.js, Express |
-| **Database** | MongoDB, Firebase, SQL |
+| **Backend** | python, django,  |
+| **Database** | Firebase, SQL |
 | **Tools & Others** | Git, Redux Toolkit, Vite, Postman |
 
 ---
@@ -25,23 +25,23 @@ I focus on clean architecture, readable code, and shipping real products — not
 ### 🚀 Featured Projects
 | Project | Description |
 |--------|-------------|
-| **Netflix Clone** | Pixel-perfect UI, dynamic API integration, responsive experience |
-| **Jarvis AI Assistant** | Desktop voice assistant built using Python and speech recognition |
-| **Task Manager** | Clean UI + optimized CRUD logic with persistent storage |
+| **Netflix Clone** | Pixel-perfect UI, dynamic API integration, smooth streaming-style UX |
+| **Chocovera** | Modern product website with clean design, responsive layout, and polished animations |
+
 
 ---
 
 ### 📌 Current Focus
 - Advanced React patterns & optimization  
 - Scalable backend architecture  
-- Cloud & DevOps fundamentals
+- Ai & Ml fundamental
 
 ---
 
 ### 📫 Contact
-- **Email:** _your email here_  
-- **LinkedIn:** _your link_  
-- **Portfolio:** _your link (optional)_
+- **Email:** pcsajitha87@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/safvan-p-
+- **Portfolio:** 
 
 ---
 
