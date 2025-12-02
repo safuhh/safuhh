@@ -1,7 +1,10 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&height=220&color=E14D94,5D5FEF&text=Safvan%20•%20Full-Stack%20Developer&fontColor=ffffff&fontSize=45"/>
-</div>
-
+<h1 align="center" style="font-weight:900; font-size:55px; margin-bottom:0;">
+  SAFVAN
+</h1>
+<p align="center" style="font-size:20px; font-weight:500; margin-top:4px; letter-spacing:2px;">
+  FULL-STACK DEVELOPER
+</p>
+<hr style="width:65%; border:0; height:2px; background:linear-gradient(90deg, #ff7a7a, #7c4dff);"/>
 
 <br/>
 
