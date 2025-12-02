@@ -1,10 +1,12 @@
-<h1 align="center" style="font-weight:900; font-size:55px; margin-bottom:0;">
-  SAFVAN
+<h1 align="center">
+  <span style="font-size:58px; font-weight:900; background:linear-gradient(90deg,#ff0066,#9f00ff); -webkit-background-clip:text; color:transparent;">
+    SAFVAN
+  </span>
 </h1>
-<p align="center" style="font-size:20px; font-weight:500; margin-top:4px; letter-spacing:2px;">
-  FULL-STACK DEVELOPER
+<p align="center" style="font-size:21px; font-weight:600;">
+  Full-Stack Developer • Scalable Web Apps • Modern Product Experiences
 </p>
-<hr style="width:65%; border:0; height:2px; background:linear-gradient(90deg, #ff7a7a, #7c4dff);"/>
+
 
 <br/>
 
