@@ -1,8 +1,8 @@
-<h1 align="center" style="font-weight:900; font-size:64px; letter-spacing:6px; color:#111;">
-  SAFVAN
+<h1 align="center" style="font-family: 'Fira Code', 'Courier New', monospace; font-weight:900; font-size:64px; letter-spacing:6px; color:#111;">
+  I’m Safvan
 </h1>
 
-<p align="center" style="font-size:20px; margin-top:-10px; color:#333;">
+<p align="center" style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size:20px; margin-top:-10px; color:#333;">
   FULL-STACK DEVELOPER — REACT & DJANGO
 </p>
 
@@ -18,17 +18,18 @@
 <div align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap; margin-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="50" height="50" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" title="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" title="Redux" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" height="50" title="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" title="Postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" title="Linux" />
 </div>
+
+
 
 
 <p align="center" style="font-size:13px; color:#555;">
@@ -40,9 +41,8 @@
 ## Projects
 | Project | Stack | Focus |
 |--------|--------|-------|
-| Netflix Clone | React • TMDB API | Modular UI, Hero Banner, Fully Responsive |
-| Chocovera | React • Firebase | Smooth UX, Clean Animations, Product Focus |
-| DevTasker | Django • PostgreSQL • JWT | Scalable APIs, Secure Auth, Admin Panel |
+| Netflix Clone | React • TMDB API| Modular UI, Hero Banner, Fully Responsive |
+| Chocovera | React • json | Smooth UX, Clean Animations, Product Focus |
 
 > I build **systems**, not experiments.
 
@@ -68,11 +68,7 @@
   </a>
 </div>
 
----
 
-<div align="center" style="font-size:16px; color:#555;">
-  <i>“A samurai does not fear the battle. He prepares for it.”</i>
-</div>
 
 
 
