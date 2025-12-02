@@ -1,7 +1,8 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Safvan+👋;Full-Stack+Developer;Building+Scalable+Web+Apps;Crafting+Smooth+Digital+Experiences">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=333&height=110&text=Safvan%20—%20Full-Stack%20Developer&fontColor=F1F1F1&fontSize=38&animation=blink"/>
 </div>
+
 
 <br/>
 
