@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=333&height=110&text=Safvan%20—%20Full-Stack%20Developer&fontColor=F1F1F1&fontSize=38&animation=blink"/>
+  <img src="https://capsule-render.vercel.app/api?type=gradient&height=220&color=E14D94,5D5FEF&text=Safvan%20•%20Full-Stack%20Developer&fontColor=ffffff&fontSize=45"/>
 </div>
 
 
