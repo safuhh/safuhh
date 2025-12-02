@@ -1,77 +1,69 @@
-<h1 align="center">
-  <span style="font-size:58px; font-weight:900; background:linear-gradient(90deg,#ff0066,#9f00ff); -webkit-background-clip:text; color:transparent;">
-    SAFVAN
-  </span>
+<h1 align="center" style="font-weight:900; font-size:52px;">
+  Safvan
 </h1>
-<p align="center" style="font-size:21px; font-weight:600;">
-  Full-Stack Developer • Scalable Web Apps • Modern Product Experiences
+
+<p align="center" style="font-size:19px; font-weight:600; margin-top:-10px;">
+  Full-Stack Developer — React & Django
 </p>
-
-
-<br/>
 
 <p align="center">
-  💻 Full-Stack Developer & Problem Solver  
-  <br/>
-  Turning ideas into production-ready software — not just demos.
+  Building products that are fast, scalable, and actually ship.
+</p>
+
+<br/>
+
+---
+
+### 🧰 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,html,css,python,django,firebase,git,redux,vite,postman,linux&perline=6" />
 </p>
 
 ---
 
-## 🧠 Tech Stack
+### 🚀 Featured Work
+| Project | What it Does |
+|--------|--------------|
+| **Netflix Clone** 🎬 | End-to-end movie streaming UI — Hero Banner • Category Rows • Responsive • TMDB API |
+| **Chocovera** 🍫 | Premium product experience — animations + polished shopping flow |
+
+> *More projects on the way. I prefer launching real products over pushing unfinished demos.*
+
+---
+
+### 📚 Currently Leveling Up
+- Scalable React architecture & reusable design systems  
+- Django with cloud deployments & CI/CD  
+- Applying AI/ML in real-world products  
+
+---
+
+### 📊 GitHub Stats
 <div align="center">
-  
-| 🚀 Frontend | ⚙️ Backend | 🗄 Database | 🔧 Tools |
-|------------|------------|-------------|-----------|
-| React • JavaScript • Tailwind | Python • Django | Firebase • SQL | Git • Redux Toolkit • Vite • Postman |
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,django,firebase,git,redux,vite,postman" />
+  <img src="https://github-readme-stats.vercel.app/api?username=safvan&show_icons=true&theme=dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safvan&theme=dark&hide_border=true" height="160"/>
 </div>
 
 ---
 
-## 🌟 Highlighted Projects
-<div align="center">
-
-| Project | Description |
-|--------|-------------|
-| 🎬 **Netflix Clone** | Movie streaming UI • TMDB API • Category sliders • Hero banner • Fully responsive |
-| 🍫 **Chocovera** | High-quality product website • Smooth animations • Premium shopping experience |
-
-</div>
-
----
-
-## 🏗 What I'm Currently Leveling Up
-🔹 Mastering scalable React architecture & reusable design patterns  
-🔹 Deploying production-grade Django backends  
-🔹 Exploring AI & ML from fundamentals to real use cases  
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Safvan&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Safvan&theme=radical" height="165"/>
-</div>
-
----
-
-## 🌍 Connect With Me
-<div align="center">
-  <a href="mailto:pcsajitha87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/safvan-p-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>
-  <a href="https://portfolio1-wine-theta-58.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0FA958?style=for-the-badge"></a>
-</div>
+### 🌐 Connect
+<p align="center">
+  <a href="mailto:pcsajitha87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/safvan-p-">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge">
+  </a>
+  <a href="https://portfolio1-wine-theta-58.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge">
+  </a>
+</p>
 
 ---
 
 <div align="center">
-  <i>“Great software isn’t luck — it’s discipline, clarity, and timeless engineering.”</i>
+  <i>“Good code solves problems. Great code survives time.”</i>
 </div>
-
 
 
 
