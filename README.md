@@ -1,59 +1,72 @@
-<h1 align="center">i'm Safvan</h1>
-<p align="center">
-  <strong>Full-Stack Developer</strong><br/>
-  Crafting scalable web apps & seamless digital experiences
-</p>
+<!-- HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=F75C7E&center=true&vCenter=true&width=600&height=70&lines=Hey%2C+I'm+Safvan+👋;Full-Stack+Developer;Building+Scalable+Web+Apps;Crafting+Smooth+Digital+Experiences">
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Django-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Database-Firebase-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Tools-Redux_•_Vite_•_Postman-purple?style=for-the-badge"/>
+  💻 Full-Stack Developer & Problem Solver  
+  <br/>
+  Turning ideas into production-ready software — not just demos.
 </p>
 
 ---
 
-## 🌟 About Me
-I build software with precision — performance-focused, maintainable, and user-centric.  
-Solving real problems matters more to me than chasing trends.
+## 🧠 Tech Stack
+<div align="center">
+  
+| 🚀 Frontend | ⚙️ Backend | 🗄 Database | 🔧 Tools |
+|------------|------------|-------------|-----------|
+| React • JavaScript • Tailwind | Python • Django | Firebase • SQL | Git • Redux Toolkit • Vite • Postman |
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,django,firebase,git,redux,vite,postman" />
+</div>
 
 ---
 
-## 🔥 Core Expertise
-| Area | Technologies |
-|------|-------------|
-| **Frontend** | React, JavaScript, HTML, CSS, Tailwind |
-| **Backend** | Python, Django |
-| **Database** | Firebase, SQL |
-| **Tools** | Git, Vite, Redux Toolkit, Postman |
+## 🌟 Highlighted Projects
+<div align="center">
 
----
-
-## 🚩 Featured Projects
 | Project | Description |
 |--------|-------------|
-| 🎬 **Netflix Clone** | Fully responsive streaming platform UI with TMDB API, carousel banners, and category-based content layout |
-| 🍫 **Chocovera** | Premium product website with smooth UI, modern animations, and a refined shopping experience |
+| 🎬 **Netflix Clone** | Movie streaming UI • TMDB API • Category sliders • Hero banner • Fully responsive |
+| 🍫 **Chocovera** | High-quality product website • Smooth animations • Premium shopping experience |
+
+</div>
 
 ---
 
-## 🔭 Current Focus
-- Advanced React patterns & best architecture practices  
-- Scalable backend systems and real-world deployments  
-- AI / Machine Learning fundamentals & implementation
+## 🏗 What I'm Currently Leveling Up
+🔹 Mastering scalable React architecture & reusable design patterns  
+🔹 Deploying production-grade Django backends  
+🔹 Exploring AI & ML from fundamentals to real use cases  
 
 ---
 
-## 📬 Let’s Connect
-<p align="center">
-  <a href="mailto:pcsajitha87@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/safvan-p-"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge"></a>
-  <a href="https://portfolio1-wine-theta-58.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge"></a>
-</p>
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Safvan&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Safvan&theme=radical" height="165"/>
+</div>
 
 ---
 
-<p align="center"><strong>💡 “Software should be engineered — not improvised.”</strong></p>
+## 🌍 Connect With Me
+<div align="center">
+  <a href="mailto:pcsajitha87@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/safvan-p-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge"></a>
+  <a href="https://portfolio1-wine-theta-58.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0FA958?style=for-the-badge"></a>
+</div>
+
+---
+
+<div align="center">
+  <i>“Great software isn’t luck — it’s discipline, clarity, and timeless engineering.”</i>
+</div>
+
 
 
 
