@@ -1,8 +1,19 @@
-👋 Hi, I’m Safvan
-👀 I’m into building modern, scalable apps with React, AI/ML, DL, Data Science, Python, Django & full-stack dev vibes.
-🌱 Right now learning: advanced React, smarter AI workflows, and cloud deployment (Vercel/Render vibes).
-💞️ Open to collaborate on: AI-powered apps, full-stack projects, and anything that pushes real-world impact.
-📫 Reach me at: [safvann0000@gmail.com]
-😄 Pronouns: He/Him
-⚡ Fun fact: I break bugs faster than my WiFi breaks during a Google Meet.
+## 👋 Hey, I'm Safvan
+
+🚀 Full-stack Developer  
+💻 I enjoy building fast UIs and scalable backend systems  
+🔥 Obsessed with Web Development, Cloud & Automation
+
+### 🛠️ Tech I work with
+- JavaScript • React • Node.js • Express  
+- MongoDB • Firebase • MySQL  
+- Tailwind CSS • Redux • Git
+
+### 📌 What I'm up to
+- Learning AWS & advanced React patterns
+- Building real-world projects and solving practical problems
+
+### 🌐 Connect with me
+Portfolio: [your-link-here]  
+LinkedIn: [your-link-here]  
 
