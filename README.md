@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size:20px; margin-top:-10px; color:#333;">
-  FULL-STACK DEVELOPER — REACT & DJANGO
+  FULL-STACK DEVELOPER — MERN STACK
 </p>
 
 <br/>
@@ -18,15 +18,12 @@
 <div align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap; margin-top:10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" title="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50" title="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" title="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="50" height="50" title="Vite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" height="50" title="Postman" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" title="Tailwind CSS" />
 </div>
 
 ---
@@ -34,8 +31,8 @@
 ## Projects
 | Project | Stack | Focus |
 |--------|--------|-------|
-| Netflix Clone | React • TMDB API| Modular UI, Hero Banner, Fully Responsive |
-| Chocovera | React • json | Smooth UX, Clean Animations, Product Focus |
+| Netflix Clone | React • TMDB API | Modular UI, Hero Banner, Fully Responsive |
+| Chocovera | React • JSON | Smooth UX, Clean Animations, Product Focus |
 
 > I build **systems**, not experiments.
 
@@ -43,8 +40,8 @@
 
 ## Current Focus
 - Scalable React architecture & reusable UI patterns  
-- Django microservices & containerized deployment  
-- AI/ML integration for practical apps  
+- Node.js + Express API design & MongoDB integration  
+- Modern MERN stack deployments  
 
 ---
 
@@ -60,8 +57,6 @@
     <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
 </div>
-
-
 
 
 
