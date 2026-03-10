@@ -1,117 +1,126 @@
 <h1 align="center">Safvan</h1>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
-  <b>Full-Stack Developer • MERN Stack</b><br/>
-  Building scalable web systems with modern JavaScript.
+Building scalable web applications with modern JavaScript architecture.
 </p>
 
 <p align="center">
-  <a href="mailto:pcsajitha87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/safvan-p-">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://portfolio1-wine-theta-58.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+React • Node.js • Express • MongoDB
 </p>
 
 ---
 
 ## About Me
 
-Full-stack developer focused on the **MERN stack**.  
-I design and build modern web applications with clean architecture, scalable APIs, and responsive user interfaces.
+I build **production-focused web applications** using the MERN stack.  
+My focus is on writing **clean architecture, scalable APIs, and modern UI systems**.
 
-My focus is not just writing code — it's **building production-ready systems**.
+I approach development like engineering:
+
+• clear system structure  
+• reusable components  
+• performance focused design  
+• real-world production patterns  
 
 ---
 
 ## Tech Stack
 
-<p align="center">
+**Frontend**
+- React
+- JavaScript
+- Redux
+- Tailwind CSS
 
-<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,redux,git,tailwind" />
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+- REST API Design
 
-</p>
+**Tools**
+- Git
+- Postman
+- Vercel
+- VS Code
 
 ---
 
 ## Featured Projects
 
-### Vyntra — E-Commerce Platform
-Modern e-commerce web application focused on performance and clean UX.
+### Vyntra — MERN E-commerce Platform
+Modern ecommerce web application with clean UI and scalable architecture.
 
-**Tech Stack**
-
-React • Node.js • Express • MongoDB
-
-**Live Website**
-
+Live Demo  
 https://vyntra-dqdt.vercel.app/
 
-**Highlights**
+Focus
+- Product browsing
+- Responsive UI
+- Component architecture
+- Modern ecommerce layout
 
-- Product browsing interface
-- Clean responsive UI
-- MERN stack architecture
-- Modern component structure
-
----
 
 ### Netflix Clone
-Movie browsing application using external APIs.
+React application using TMDB API.
 
-**Tech Stack**
-
-React • TMDB API
-
-**Highlights**
-
-- Dynamic movie listings
-- Hero banner UI
-- Responsive layout
+Focus
+- Movie browsing interface
 - API integration
+- Dynamic UI components
+- Responsive layout
+
+
+### Chocovera
+Chocolate product showcase website built with React.
+
+Focus
+- Smooth UI
+- Clean component design
+- Product oriented interface
 
 ---
 
-### Chocovera
-Product-focused UI built for smooth browsing experience.
+## LeetCode
 
-**Tech Stack**
+I actively practice data structures and algorithms.
 
-React • JSON data
+Profile  
+https://leetcode.com/u/5ZPMXQHe4B/
 
-**Highlights**
+Focus Areas
 
-- Clean product interface
-- Smooth animations
-- Component-based structure
+- Arrays
+- Hashing
+- Sliding Window
+- Recursion
+- Basic Dynamic Programming
 
 ---
 
 ## Current Focus
 
-- Advanced React architecture
-- Backend API design with Node.js
-- MongoDB data modeling
-- MERN stack production deployment
+- Advanced MERN architecture
+- Backend API design
+- Scalable React component systems
+- Performance optimization
 
 ---
 
-## GitHub Stats
+## Connect
 
-<p align="center">
+Email  
+pcsajitha87@gmail.com
 
-<img src="https://github-readme-stats.vercel.app/api?username=Safvan&show_icons=true&theme=dark&hide_border=true"/>
+LinkedIn  
+https://www.linkedin.com/in/safvan-p-
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safvan&layout=compact&theme=dark&hide_border=true"/>
-
-</p>
+Portfolio  
+https://portfolio1-wine-theta-58.vercel.app/
 
 ---
 
 <p align="center">
-  <i>“Good code works. Great systems scale.”</i>
+Building systems, not just projects.
 </p>
