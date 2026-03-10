@@ -82,20 +82,15 @@ Focus
 
 ---
 
-## LeetCode
+## LeetCode Stats
 
-I actively practice data structures and algorithms.
+<p align="center">
+<img src="https://leetcode-stats.vercel.app/api?username=5ZPMXQHe4B&theme=dark" />
+</p>
 
-Profile  
-https://leetcode.com/u/5ZPMXQHe4B/
-
-Focus Areas
-
-- Arrays
-- Hashing
-- Sliding Window
-- Recursion
-- Basic Dynamic Programming
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/5ZPMXQHe4B?theme=dark&font=Fira%20Code&ext=contest" />
+</p>
 
 ---
 
