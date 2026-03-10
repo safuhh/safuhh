@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0:7aa2f7,100:bb9af7&height=220&section=header&text=Hi,%20I'm%20Safvan%20👋&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
   ### 🚀 Full Stack Engineer | React & Node.js Specialist
   *Architecting high-performance digital ecosystems with a focus on scalability and clean code.*
@@ -16,7 +15,6 @@
 ### ⚡ Quick Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=safuhh&repo=YOUR_BEST_REPO&theme=tokyonight&show_owner=true" align="right" width="350" />
 </div>
 
 - 🔭 **Current Focus:** Developing high-performance **MERN** applications & Microservices.
@@ -39,16 +37,7 @@
 ### 📊 Performance & Impact
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=safuhh&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&icon_color=e0af68" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safuhh&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" />
-      </td>
-    </tr>
-  </table>
+
   
   <img src="https://leetcard.jacoblin.cool/5ZPMXQHe4B?theme=dark&font=Baloo&ext=contest" width="450px"/>
 </div>
@@ -65,7 +54,7 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20code%20it." />
+  
 
   <br />
 
