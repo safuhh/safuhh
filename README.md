@@ -1,108 +1,90 @@
-<h1 align="center">Hi 👋, I'm Safvan</h1>
-<h3 align="center">MERN Stack Developer | React Focused</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Hi%20I'm%20Safvan&fontSize=70&animation=fadeIn" />
 
-<p align="center">
-Building scalable web apps with modern JavaScript architecture
-</p>
+  ### 🚀 Full Stack Engineer | React & Node.js Specialist
+  *Building scalable digital experiences with precision and clean architecture.*
 
-<p align="center">
-💻 React • Node.js • Express • MongoDB • JavaScript
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently building **MERN stack applications**
-- 🌱 Learning **advanced backend architecture**
-- 💡 Passionate about **clean code & scalable APIs**
-- 🎯 Goal: Become a **high-level full stack engineer**
+  [![](https://img.shields.io/badge/LeetCode-5ZPMXQHe4B-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/5ZPMXQHe4B)
+  [![](https://img.shields.io/badge/GitHub-Safvan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+</div>
 
 ---
 
-## 🧠 Tech Stack
+### ⚡ Quick Overview
 
-### Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔭 Current Focus</h4>
+      <ul>
+        <li>Developing high-performance <b>MERN</b> applications</li>
+        <li>Architecting scalable <b>Microservices</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌱 Growth Lab</h4>
+      <ul>
+        <li>Mastering <b>Advanced Backend Design Patterns</b></li>
+        <li>Exploring <b>Cloud Infrastructure</b> (AWS/Docker)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🔥 GitHub Streak
+### 🧠 Modern Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  **Frontend Architecture**
+  <br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css&perline=6" />
 
-</p>
+  <br />
 
----
+  **Backend & Database**
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,graphql,postgresql&perline=5" />
 
-## 🧠 LeetCode Status
+  <br />
 
-<p align="center">
+  **DevOps & Tools**
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma&perline=6" />
 
-<img src="https://leetcard.jacoblin.cool/5ZPMXQHe4B?theme=dark&font=Baloo&ext=contest"/>
-
-</p>
-
----
-
-## ⚡ Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/5ZPMXQHe4B">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-## 📌 Featured Skills
+### 📊 Performance Metrics
 
-✔ REST API Development  
-✔ React Component Architecture  
-✔ MongoDB Database Design  
-✔ Authentication Systems  
-✔ Scalable Backend Structure
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a&icon_color=e0af68" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9ece6a" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/5ZPMXQHe4B?theme=dark&font=Baloo&ext=contest" width="400px"/>
+</div>
 
 ---
 
-## ⚡ Fun Fact
+### 🎯 Core Competencies
 
-I turn ☕ coffee into **production-ready code**.
+- 💎 **Clean Code:** Writing maintainable, self-documenting code.
+- 🏗️ **Scalability:** Designing databases and APIs that grow with the user base.
+- 🔐 **Security:** Implementing robust JWT & OAuth authentication flows.
+- 🎨 **UI/UX:** Translating complex requirements into intuitive React interfaces.
 
 ---
 
-<p align="center">
-⭐ If you like my work, consider giving a star to my repositories!
-</p>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I%20turn%20coffee%20into%20production-ready%20code." />
+  
+  <br />
+  
+  ⭐ *Found my work helpful? A star on my repos would be appreciated!*
+</div>
