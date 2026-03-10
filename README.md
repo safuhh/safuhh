@@ -66,19 +66,6 @@
   <i>Improving problem-solving skills daily through algorithmic challenges and competitive coding.</i>
 </p>
 
----
-
-### 🎯 Core Competencies
-
-| 💎 Quality | 🏗️ Architecture | 🔐 Security |
-| :--- | :--- | :--- |
-| **Clean Code:** Maintainable & self-documenting. | **Scalability:** APIs designed for growth. | **Auth:** Robust JWT & OAuth flows. |
-| **Performance:** Optimized React rendering. | **Database:** Efficient schema design. | **DevOps:** CI/CD & Dockerization. |
-
----
-
-<div align="center">
-  
 
   <br />
 
