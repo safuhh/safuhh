@@ -1,62 +1,117 @@
-<h1 align="center" style="font-family: 'Fira Code', 'Courier New', monospace; font-weight:900; font-size:64px; letter-spacing:6px; color:#111;">
-  I’m Safvan
-</h1>
+<h1 align="center">Safvan</h1>
 
-<p align="center" style="font-family: 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; font-size:20px; margin-top:-10px; color:#333;">
-  FULL-STACK DEVELOPER — MERN STACK
+<p align="center">
+  <b>Full-Stack Developer • MERN Stack</b><br/>
+  Building scalable web systems with modern JavaScript.
 </p>
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=FFFFFF&center=true&vCenter=true&width=520&lines=Code+is+my+discipline.;Architecture+is+my+weapon.;Shipping+is+my+only+victory." />
-</div>
-
----
-
-## ⚔ Tech Arsenal
-<div align="center" style="display:flex; justify-content:center; gap:25px; flex-wrap:wrap; margin-top:10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" title="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50" title="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50" title="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="50" height="50" title="Tailwind CSS" />
-</div>
+<p align="center">
+  <a href="mailto:pcsajitha87@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/safvan-p-">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://portfolio1-wine-theta-58.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+</p>
 
 ---
 
-## Projects
-| Project | Stack | Focus |
-|--------|--------|-------|
-| Netflix Clone | React • TMDB API | Modular UI, Hero Banner, Fully Responsive |
-| Chocovera | React • JSON | Smooth UX, Clean Animations, Product Focus |
+## About Me
 
-> I build **systems**, not experiments.
+Full-stack developer focused on the **MERN stack**.  
+I design and build modern web applications with clean architecture, scalable APIs, and responsive user interfaces.
+
+My focus is not just writing code — it's **building production-ready systems**.
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,redux,git,tailwind" />
+
+</p>
+
+---
+
+## Featured Projects
+
+### Vyntra — E-Commerce Platform
+Modern e-commerce web application focused on performance and clean UX.
+
+**Tech Stack**
+
+React • Node.js • Express • MongoDB
+
+**Live Website**
+
+https://vyntra-dqdt.vercel.app/
+
+**Highlights**
+
+- Product browsing interface
+- Clean responsive UI
+- MERN stack architecture
+- Modern component structure
+
+---
+
+### Netflix Clone
+Movie browsing application using external APIs.
+
+**Tech Stack**
+
+React • TMDB API
+
+**Highlights**
+
+- Dynamic movie listings
+- Hero banner UI
+- Responsive layout
+- API integration
+
+---
+
+### Chocovera
+Product-focused UI built for smooth browsing experience.
+
+**Tech Stack**
+
+React • JSON data
+
+**Highlights**
+
+- Clean product interface
+- Smooth animations
+- Component-based structure
 
 ---
 
 ## Current Focus
-- Scalable React architecture & reusable UI patterns  
-- Node.js + Express API design & MongoDB integration  
-- Modern MERN stack deployments  
+
+- Advanced React architecture
+- Backend API design with Node.js
+- MongoDB data modeling
+- MERN stack production deployment
 
 ---
 
-## Connect
-<div align="center">
-  <a href="mailto:pcsajitha87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/safvan-p-">
-    <img src="https://img.shields.io/badge/LinkedIn-111?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://portfolio1-wine-theta-58.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-</div>
+## GitHub Stats
 
+<p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Safvan&show_icons=true&theme=dark&hide_border=true"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Safvan&layout=compact&theme=dark&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+  <i>“Good code works. Great systems scale.”</i>
+</p>
