@@ -1,67 +1,108 @@
 <h1 align="center">Hi 👋, I'm Safvan</h1>
-<h3 align="center">MERN Stack & React Developer</h3>
+<h3 align="center">MERN Stack Developer | React Focused</h3>
 
 <p align="center">
-I build modern, scalable web applications using the MERN stack.
-Focused on clean architecture, performance, and real-world production apps.
+Building scalable web apps with modern JavaScript architecture
+</p>
+
+<p align="center">
+💻 React • Node.js • Express • MongoDB • JavaScript
 </p>
 
 ---
 
-<h2>🚀 Tech Stack</h2>
+## 🚀 About Me
 
+- 🔭 Currently building **MERN stack applications**
+- 🌱 Learning **advanced backend architecture**
+- 💡 Passionate about **clean code & scalable APIs**
+- 🎯 Goal: Become a **high-level full stack engineer**
+
+---
+
+## 🧠 Tech Stack
+
+### Frontend
 <p>
-<b>Frontend</b><br>
-React • JavaScript • HTML5 • CSS3 • Tailwind • Responsive Design
+<img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind" />
 </p>
 
+### Backend
 <p>
-<b>Backend</b><br>
-Node.js • Express.js • REST APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
+### Tools
 <p>
-<b>Database</b><br>
-MongoDB • Mongoose
-</p>
-
-<p>
-<b>Tools</b><br>
-Git • GitHub • VS Code • Postman
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-<h2>💻 What I Do</h2>
+## 📊 GitHub Stats
 
-<ul>
-<li>Build full stack MERN applications</li>
-<li>Create responsive UI using React</li>
-<li>Design scalable backend APIs with Node & Express</li>
-<li>Work with MongoDB databases</li>
-<li>Write clean and maintainable code</li>
-</ul>
+<p align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-<h2>📚 Currently Learning</h2>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-<ul>
-<li>Advanced React patterns</li>
-<li>Backend architecture</li>
-<li>System design</li>
-</ul>
-
----
-
-<h2>📫 Connect With Me</h2>
-
-<p>
-GitHub: <a href="https://github.com/yourusername">github.com/yourusername</a>
 </p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🧠 LeetCode Status
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/5ZPMXQHe4B?theme=dark&font=Baloo&ext=contest"/>
+
+</p>
+
+---
+
+## ⚡ Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/5ZPMXQHe4B">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+## 📌 Featured Skills
+
+✔ REST API Development  
+✔ React Component Architecture  
+✔ MongoDB Database Design  
+✔ Authentication Systems  
+✔ Scalable Backend Structure
+
+---
+
+## ⚡ Fun Fact
+
+I turn ☕ coffee into **production-ready code**.
 
 ---
 
 <p align="center">
-⚡ Building real projects and improving every day
+⭐ If you like my work, consider giving a star to my repositories!
 </p>
