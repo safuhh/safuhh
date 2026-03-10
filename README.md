@@ -34,12 +34,32 @@
 
 ---
 
-### 📊 Performance & Impact
-
-<div align="center">
-
+<div class="relative group max-w-2xl mx-auto p-8 rounded-3xl bg-slate-900/50 backdrop-blur-xl border border-white/10 shadow-2xl overflow-hidden">
   
-  <img src="https://leetcard.jacoblin.cool/5ZPMXQHe4B?theme=dark&font=Baloo&ext=contest" width="450px"/>
+  <div class="absolute -top-24 -left-24 w-64 h-64 bg-indigo-500/20 rounded-full blur-3xl group-hover:bg-indigo-500/30 transition-all duration-700"></div>
+  <div class="absolute -bottom-24 -right-24 w-64 h-64 bg-purple-500/20 rounded-full blur-3xl group-hover:bg-purple-500/30 transition-all duration-700"></div>
+
+  <div class="relative flex flex-col md:flex-row items-center gap-8">
+    
+    <div class="flex-1 space-y-4 text-center md:text-left">
+      <h3 class="text-2xl font-bold bg-gradient-to-r from-white to-slate-400 bg-clip-text text-transparent">
+        Performance & Impact
+      </h3>
+      <p class="text-slate-400 text-sm leading-relaxed">
+        Quantifying technical excellence through competitive programming and consistent problem-solving architecture.
+      </p>
+      <div class="flex gap-3 justify-center md:justify-start">
+        <span class="px-3 py-1 rounded-full bg-white/5 border border-white/10 text-[10px] uppercase tracking-widest text-indigo-300">Algorithmic</span>
+        <span class="px-3 py-1 rounded-full bg-white/5 border border-white/10 text-[10px] uppercase tracking-widest text-purple-300">Data Structures</span>
+      </div>
+    </div>
+
+    <div class="shrink-0 transition-transform duration-500 group-hover:scale-[1.02] drop-shadow-[0_0_25px_rgba(0,0,0,0.5)]">
+      <img src="https://leetcard.jacoblin.cool/5ZPMXQHe4B?theme=dark&font=Baloo&ext=contest" 
+           alt="LeetCode Stats" 
+           class="w-[380px] md:w-[450px] rounded-xl" />
+    </div>
+  </div>
 </div>
 
 ---
