@@ -68,6 +68,6 @@
 
 
   <br />
-
-  ⭐ *Found my work helpful? Feel free to explore my repositories!*
-</div>
+<p align="center">
+  ⭐ <i>Found my work helpful? Feel free to explore my repositories!</i>
+</p>
