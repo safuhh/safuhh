@@ -68,6 +68,8 @@
 
 
   <br />
+  <br>
 <p align="center">
   ⭐ <i>Found my work helpful? Feel free to explore my repositories!</i>
 </p>
+  <br />
