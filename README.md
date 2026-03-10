@@ -66,10 +66,9 @@
   <i>Improving problem-solving skills daily through algorithmic challenges and competitive coding.</i>
 </p>
 
+<hr style="border:0; height:1px; background-color:#d0d7de; margin:30px 0;">
 
-  <br />
-  <br>
 <p align="center">
   ⭐ <i>Found my work helpful? Feel free to explore my repositories!</i>
 </p>
-  <br />
+ 
