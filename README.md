@@ -10,14 +10,6 @@
 
 <br/>
 
-```javascript
-const safvan = {
-  role     : "MERN Stack Engineer",
-  focus    : "Scalable full-stack JavaScript systems",
-  currently: "Building production-grade web applications",
-  passion  : ["Clean architecture", "DX", "Performance"],
-};
-```
 
 </div>
 
@@ -80,30 +72,12 @@ const safvan = {
 
 ---
 
-### `// GitHub Stats`
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=safuhh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=e6edf3&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safuhh&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=8" />
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=safuhh&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff6b6b&currStreakLabel=e6edf3&sideLabels=e6edf3&dates=7d8590" />
-
-</div>
 
 ---
 
-### `// What I Build`
 
-```
-✦  Full-stack SaaS apps with auth, payments & real-time features
-✦  REST & GraphQL APIs with clean modular architecture
-✦  Server-side rendered Next.js apps optimized for SEO & performance
-✦  Reusable React component libraries with Storybook documentation
-✦  Automated CI/CD pipelines with Docker & GitHub Actions
-```
 
----
 
 ### `// Currently`
 
