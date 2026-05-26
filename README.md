@@ -39,18 +39,6 @@
 
 ---
 
-### `// GitHub Activity`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=safuhh&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=7d8590&icon_color=3fb950" width="48%" />
-<img src="https://leetcard.jacoblin.cool/5ZPMXQHe4B?theme=dark&font=Baloo&ext=contest" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=safuhh&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" width="98%" />
-
-</div>
 
 ---
 
