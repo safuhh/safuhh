@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Safvan%20P&fontSize=48&fontColor=e6edf3&fontAlignY=65&desc=MERN%20Stack%20Engineer&descAlignY=85&descColor=58a6ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Safvan%20P&fontSize=48&fontColor=e6edf3&fontAlignY=65&desc=MERN%20Stack%20Developer&descAlignY=85&descColor=58a6ff" width="100%"/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/safuhh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safvan-p-/)
