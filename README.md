@@ -24,23 +24,38 @@
 | **Security** | JWT Auth, OAuth 2.0 | Bcrypt encryption |
 
 ---
+<div align="center">
 
-### `// Tooling & DevOps`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=120&section=header&text=Safvan%20P&fontSize=42&fontColor=e6edf3&fontAlignY=65&desc=MERN%20Stack%20Developer&descAlignY=85&descColor=7d8590" width="100%"/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/safuhh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safvan-p-/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/5ZPMXQHe4B)
+![Profile Views](https://komarev.com/ghpvc/?username=safuhh&color=58a6ff&style=flat-square&label=views)
+
+### MERN Stack Developer | Next.js & TypeScript | Full-Stack Web Developer
+
+**Building scalable web applications and solving real-world problems with modern technologies**
+
+</div>
+
+---
+
+## 🚀 MERN Stack Skills
+
+| Category | Skills |
+|----------|--------|
+| **Frontend** | React.js · Next.js · TypeScript · JavaScript (ES6+) · Redux Toolkit · Context API · React Query |
+| **Styling & UI** | Tailwind CSS · Shadcn/UI · Framer Motion · Responsive Design |
+| **Backend** | Node.js · Express.js · REST APIs · GraphQL · WebSockets |
+| **Database** | MongoDB · Mongoose · PostgreSQL · Prisma |
+| **Authentication & Security** | JWT · OAuth 2.0 · Bcrypt · Role-Based Access Control |
+| **Tools & Platforms** | Git · GitHub · Postman · Vercel · Render |
+| **Development Practices** | MVC Architecture · API Integration · Real-Time Applications · Scalable System Design |
 
 ---
 
 
----
 
-### `// What I'm building`
- 
+
+
