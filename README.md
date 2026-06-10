@@ -10,98 +10,102 @@
 
 <br/>
 
-
-</div>
-
----
-
-### `// Core Stack`
-
-<div align="center">
-
-| Layer | Technology | Tooling |
-|:------|:-----------|:--------|
-| **Frontend** | React 18, Next.js 14 (App Router) | Redux Toolkit · React Query · Context API |
-| **Styling** | Tailwind CSS, Framer Motion | Shadcn/UI · Radix UI · CSS Modules |
-| **Backend** | Node.js, Express.js | REST · GraphQL · WebSockets |
-| **Database** | MongoDB (Mongoose) | PostgreSQL (Prisma) · Redis |
-| **Auth & Security** | JWT, OAuth 2.0 | Bcrypt · CSRF Protection · Rate Limiting |
-| **DevOps** | Docker, Nginx | GitHub Actions · CI/CD · Vercel · Render |
-| **Testing** | Jest, React Testing Library | Supertest · Postman |
-| **Tools** | Git, VS Code | ESLint · Prettier · Turborepo |
-
-</div>
-
----
-
-### `// Tech Badges`
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-
-</div>
-
----
-
-
-
----
-
-
-
-
-### `// Currently`
-
-- 🔭 &nbsp; Working on scalable MERN applications in production
-- 🌱 &nbsp; Deepening expertise in **system design** and **distributed systems**
-- ⚡ &nbsp; Solving DSA problems on [LeetCode](https://leetcode.com/5ZPMXQHe4B)
-- 💬 &nbsp; Ask me about **React**, **Node.js**, **MongoDB**, or **Next.js**
-
----
-
-### `// Activity Graph`
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=safuhh&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&hide_border=true)](https://github.com/safuhh)
-
 </div>
 
 ---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."*
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=80&section=footer" width="100%"/>
+<!-- Animated Developer Sticker -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
 
+<br/>
+
+<!-- Animated Stack Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&letterSpacing=6&duration=3000&pause=1500&color=888888&center=true&vCenter=true&width=500&height=40&lines=C+O+R+E++A+R+S+E+N+A+L;T+E+C+H+N+I+C+A+L++D+N+A" alt="Core Stack Header" />
+
+<br/><br/>
+
+<p style="letter-spacing: 4px; font-size: 11px; color: #666; margin-bottom: 12px;">F R O N T E N D &nbsp; E C O S Y S T E M</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,motion&theme=dark" alt="Frontend Tech Stack" />
+</a>
+
+<br/><br/>
+
+<p style="letter-spacing: 4px; font-size: 11px; color: #666; margin-bottom: 12px;">B A C K E N D &nbsp; & &nbsp; D A T A B A S E S</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,docker&theme=dark" alt="Backend Tech Stack" />
+</a>
+
+<br/><br/>
+
+<p style="letter-spacing: 4px; font-size: 11px; color: #666; margin-bottom: 12px;">I N F R A S T R U C T U R E &nbsp; & &nbsp; T O O L S</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,vscode,vercel,postman&theme=dark" alt="Tools" />
+</a>
+
+<br/><br/>
+
+</div>
+
+---
+
+<div align="center">
+  <br/>
+
+  <!-- Minimalist, wide-spaced section header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=14&letterSpacing=8&duration=4000&pause=2000&color=10B981&center=true&vCenter=true&width=600&height=40&lines=C+U+R+R+E+N+T++D+Y+N+A+M+I+C+S" alt="Current Dynamics" />
+
+  <br/>
+
+  <!-- Clean structural grid -->
+  <table width="850">
+    <tr>
+      <td align="center" width="50%">
+        <h4 style="color: #10B981; font-weight: 400;">01. ARCHITECTURE</h4>
+        <p><i>Architecting scalable digital ecosystems and robust MERN backends.</i></p>
+      </td>
+      <td align="center" width="50%">
+        <h4 style="color: #10B981; font-weight: 400;">02. INTERFACE</h4>
+        <p><i>Crafting premium, mobile-first experiences with clean code.</i></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <h4 style="color: #10B981; font-weight: 400;">03. INTERACTION</h4>
+        <p><i>Exploring advanced web animations and minimalist UI aesthetics.</i></p>
+      </td>
+      <td align="center" width="50%">
+        <h4 style="color: #10B981; font-weight: 400;">04. ALGORITHMS</h4>
+        <p><i>Optimizing performance and solving complex data structures.</i></p>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+</div>
+---
+
+<div align="center">
+  <br/>
+
+  <!-- Emerald Premium Activity Graph with Area Gradient -->
+  <a href="https://github.com/safuhh">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=safuhh&bg_color=ffffff00&color=888888&line=047857&point=10B981&area_color=10B981&area=true&hide_border=true&custom_title=E+X+E+C+U+T+I+O+N++M+E+T+R+I+C+S" alt="Activity Graph" width="850" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Minimalist Structural Line -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=047857&height=1&width=200" alt="divider" />
+
+  <br/><br/>
+
+  <!-- Cinematic, Wide-Spaced Animated Quote -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=15&letterSpacing=5&duration=4500&pause=2500&color=047857&center=true&vCenter=true&width=800&height=60&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Architecting+scalable+digital+ecosystems.%22" alt="Animated Quote" />
+
+  <br/><br/>
 </div>
