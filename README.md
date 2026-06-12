@@ -35,36 +35,52 @@
 
 <div align="center">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=TECH+STACK;TOOLS+%26+TECHNOLOGIES" />
 
-<!-- Animated Developer Sticker -->
+<br><br>
 
-<br/>
+<table>
+<tr>
+<td align="center">
 
+#### Frontend
 
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind&theme=dark" />
 
-<br/><br/>
+</td>
+</tr>
 
-<p style="letter-spacing: 4px; font-size: 11px; color: #666; margin-bottom: 12px;">F R O N T E N D &nbsp; E C O S Y S T E M</p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,motion&theme=dark" alt="Frontend Tech Stack" />
-</a>
+<tr>
+<td align="center">
 
-<br/><br/>
+#### Backend
 
-<p style="letter-spacing: 4px; font-size: 11px; color: #666; margin-bottom: 12px;">B A C K E N D &nbsp; & &nbsp; D A T A B A S E S</p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,docker&theme=dark" alt="Backend Tech Stack" />
-</a>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
 
-<br/><br/>
+</td>
+</tr>
 
-<p style="letter-spacing: 4px; font-size: 11px; color: #666; margin-bottom: 12px;">I N F R A S T R U C T U R E &nbsp; & &nbsp; T O O L S</p>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,vscode,vercel,postman&theme=dark" alt="Tools" />
-</a>
+<tr>
+<td align="center">
 
-<br/><br/>
+#### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,vercel&theme=dark" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+#### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+
+</td>
+</tr>
+
+</table>
 
 </div>
 
