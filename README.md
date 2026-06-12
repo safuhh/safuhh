@@ -13,18 +13,21 @@
 </div>
 
 ---
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+
+</div>
 
 <div align="center">
 
 <br/>
 
 <!-- Animated Developer Sticker -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="50" height="50" />
 
 <br/>
 
-<!-- Animated Stack Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=16&letterSpacing=6&duration=3000&pause=1500&color=888888&center=true&vCenter=true&width=500&height=40&lines=C+O+R+E++A+R+S+E+N+A+L;T+E+C+H+N+I+C+A+L++D+N+A" alt="Core Stack Header" />
+
 
 <br/><br/>
 
@@ -87,6 +90,7 @@
 
   <br/>
 </div>
+
 ---
 
 <div align="center">
@@ -98,6 +102,7 @@
   </a>
 
   <br/><br/>
+  
 
   <!-- Minimalist Structural Line -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=047857&height=1&width=200" alt="divider" />
@@ -109,3 +114,19 @@
 
   <br/><br/>
 </div>
+
+
+  <!-- brrririr -->
+
+
+
+
+
+
+
+
+
+
+
+
+
