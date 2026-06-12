@@ -2,11 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Safvan%20P&fontSize=48&fontColor=e6edf3&fontAlignY=65&desc=MERN%20Stack%20Developer&descAlignY=85&descColor=58a6ff" width="100%"/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/safuhh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/safvan-p-/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/5ZPMXQHe4B)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](#)
-![Profile Views](https://komarev.com/ghpvc/?username=safuhh&color=58a6ff&style=flat-square&label=views)
+<div align="center">
+
+<a href="https://github.com/safuhh">
+<img src="https://img.shields.io/badge/◉_GitHub-0D1117?style=flat-square&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/safvan-p-/">
+<img src="https://img.shields.io/badge/◉_LinkedIn-0D1117?style=flat-square&logoColor=0A66C2"/>
+</a>
+
+<a href="https://leetcode.com/5ZPMXQHe4B">
+<img src="https://img.shields.io/badge/◉_LeetCode-0D1117?style=flat-square&logoColor=FFA116"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/◉_Portfolio-0D1117?style=flat-square&logoColor=7C3AED"/>
+</a>
+
+</div>
 
 <br/>
 
@@ -15,7 +29,7 @@
 ---
 <div align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="280"/>
 
 </div>
 
