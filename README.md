@@ -29,7 +29,7 @@
 ---
 <div align="center">
 
-<img src="Assets/demo.gif" width="280"/>
+<img src="Assets/dem.gif" width="280"/>
 
 </div>
 
