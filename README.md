@@ -35,9 +35,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=TECH+STACK;TOOLS+%26+TECHNOLOGIES" />
-
-<br><br>
 
 <table>
 <tr>
