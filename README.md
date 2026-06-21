@@ -1,151 +1,119 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header&text=Safvan%20P&fontSize=48&fontColor=e6edf3&fontAlignY=65&desc=MERN%20Stack%20Developer&descAlignY=85&descColor=58a6ff" width="100%"/>
-
-<div align="center">
-
-<a href="https://github.com/safuhh">
-<img src="https://img.shields.io/badge/◉_GitHub-0D1117?style=flat-square&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/safvan-p-/">
-<img src="https://img.shields.io/badge/◉_LinkedIn-0D1117?style=flat-square&logoColor=0A66C2"/>
-</a>
-
-<a href="https://leetcode.com/5ZPMXQHe4B">
-<img src="https://img.shields.io/badge/◉_LeetCode-0D1117?style=flat-square&logoColor=FFA116"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/◉_Portfolio-0D1117?style=flat-square&logoColor=7C3AED"/>
-</a>
+<img src="Assets/demo.gif" width="100%" alt="Profile header animation" />
 
 </div>
 
 <br/>
 
-</div>
-
----
 <div align="center">
 
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="280"/>
+# Hi there, I'm [YOUR_NAME] 👋
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%5BYOUR_ROLE%5D;%5BYOUR_TAGLINE%5D" alt="Typing animation showing role and tagline" />
 
-<div align="center">
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=300&size=18&duration=4000&pause=2000&color=58A6FF&center=true&vCenter=true&width=500&lines=TECH+STACK;TOOLS+%26+TECHNOLOGIES" />
-
-<br><br>
-
-<table>
-<tr>
-<td align="center">
-
-#### Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind&theme=dark" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-#### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis&theme=dark" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-#### Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,vercel&theme=dark" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-#### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
-
-</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-<div align="center">
-  <br/>
-
-  <!-- Minimalist, wide-spaced section header -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=14&letterSpacing=8&duration=4000&pause=2000&color=10B981&center=true&vCenter=true&width=600&height=40&lines=C+U+R+R+E+N+T++D+Y+N+A+M+I+C+S" alt="Current Dynamics" />
-
-  <br/>
-
-  <!-- Clean structural grid -->
-  <table width="850">
-    <tr>
-      <td align="center" width="50%">
-        <h4 style="color: #10B981; font-weight: 400;">01. ARCHITECTURE</h4>
-        <p><i>Architecting scalable digital ecosystems and robust MERN backends.</i></p>
-      </td>
-      <td align="center" width="50%">
-        <h4 style="color: #10B981; font-weight: 400;">02. INTERFACE</h4>
-        <p><i>Crafting premium, mobile-first experiences with clean code.</i></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <h4 style="color: #10B981; font-weight: 400;">03. INTERACTION</h4>
-        <p><i>Exploring advanced web animations and minimalist UI aesthetics.</i></p>
-      </td>
-      <td align="center" width="50%">
-        <h4 style="color: #10B981; font-weight: 400;">04. ALGORITHMS</h4>
-        <p><i>Optimizing performance and solving complex data structures.</i></p>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-</div>
-
----
-
-<div align="center">
-  <br/>
-
-  <!-- Emerald Premium Activity Graph with Area Gradient -->
-  <a href="https://github.com/safuhh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=safuhh&bg_color=ffffff00&color=888888&line=047857&point=10B981&area_color=10B981&area=true&hide_border=true&custom_title=E+X+E+C+U+T+I+O+N++M+E+T+R+I+C+S" alt="Activity Graph" width="850" />
+<p>
+  <a href="https://github.com/[YOUR_GITHUB]" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://linkedin.com/in/[YOUR_LINKEDIN]" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/[YOUR_INSTAGRAM]" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://[YOUR_WEBSITE]" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:[YOUR_EMAIL]" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-  <br/><br/>
-  
-
-  <!-- Minimalist Structural Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=047857&height=1&width=200" alt="divider" />
-
-  <br/><br/>
-
-  <!-- Cinematic, Wide-Spaced Animated Quote -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=15&letterSpacing=5&duration=4500&pause=2500&color=047857&center=true&vCenter=true&width=800&height=60&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Architecting+scalable+digital+ecosystems.%22" alt="Animated Quote" />
-
-  <br/><br/>
 </div>
 
+<br/>
 
+---
 
+## 🧑‍💻 About Me
 
+- 🔭 Currently working as a **[YOUR_ROLE]**, building scalable, production-grade web applications and AI-powered systems.
+- 🌱 Currently deepening my expertise in **LLMs, Prompt Engineering, Vector Databases, and System Design**.
+- 🛠️ Comfortable across the stack — from **Django / FastAPI** APIs to **React** interfaces, containerized with **Docker** and shipped on **AWS**.
+- 🗃️ Working daily with **PostgreSQL, MongoDB, and Redis** for data layers at different scales.
+- ✍️ Sharing what I learn through technical write-ups and developer content online.
+- 💬 **Ask me about:** Backend architecture · API design · FastAPI vs Django · Docker & AWS deployments · LLM integrations · Prompt Engineering · Vector search
+- 📫 **Reach me at:** [YOUR_EMAIL]
 
+---
+
+## 🧰 Skills Showcase
+
+<div align="center">
+
+#### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=py,django,fastapi,nodejs,express" alt="Backend skills" />
+
+<br/>
+
+#### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css" alt="Frontend skills" />
+
+<br/>
+
+#### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,nginx,linux" alt="Cloud and DevOps skills" />
+
+<br/>
+
+#### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,sqlite" alt="Database skills" />
+
+<br/>
+
+#### 🤖 AI / ML
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" alt="AI and ML skills" />
+<br/><br/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/Vector%20Databases-00A19B?style=for-the-badge" alt="Vector Databases" />
+<img src="https://img.shields.io/badge/System%20Design-2563EB?style=for-the-badge" alt="System Design" />
+
+<br/><br/>
+
+#### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=[YOUR_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="35%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_GITHUB]&theme=tokyonight&hide_border=true" alt="GitHub streak stats" width="65%" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=[YOUR_GITHUB]&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" width="90%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile, [YOUR_NAME] here — let's connect!
+
+<img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB]&style=flat-square&color=58A6FF" alt="Profile views" />
+
+</div>
