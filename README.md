@@ -29,7 +29,7 @@
 ---
 <div align="center">
 
-<div class="tenor-gif-embed" data-postid="14248257669384370812" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/benjammins-bug-bug-found-code-code-bug-gif-14248257669384370812">Benjammins Bug Sticker</a>from <a href="https://tenor.com/search/benjammins-stickers">Benjammins Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/en-IN/view/benjammins-bug-bug-found-code-code-bug-gif-14248257669384370812" width="280"/>
 
 </div>
 
