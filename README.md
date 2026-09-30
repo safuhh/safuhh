@@ -120,30 +120,22 @@
 
   <br/>
 </div>
-
----
-
 <div align="center">
-  <br/>
-
-  <!-- Emerald Premium Activity Graph with Area Gradient -->
-  <a href="https://github.com/safuhh">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=safuhh&bg_color=ffffff00&color=888888&line=047857&point=10B981&area_color=10B981&area=true&hide_border=true&custom_title=E+X+E+C+U+T+I+O+N++M+E+T+R+I+C+S" alt="Activity Graph" width="850" />
-  </a>
-
-  <br/><br/>
   
 
-  <!-- Minimalist Structural Line -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=047857&height=1&width=200" alt="divider" />
 
-  <br/><br/>
 
-  <!-- Cinematic, Wide-Spaced Animated Quote -->
+  <!-- Clean Minimalist Divider -->
+  <hr style="border: none; height: 1px; width: 200px; background-color: #047857;" />
+
+
+  <!-- Cinematic Animated Quote -->
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=200&size=15&letterSpacing=5&duration=4500&pause=2500&color=047857&center=true&vCenter=true&width=800&height=60&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Architecting+scalable+digital+ecosystems.%22" alt="Animated Quote" />
 
   <br/><br/>
 </div>
+
+
 
 
 
